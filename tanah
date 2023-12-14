@@ -1,417 +1,366 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-<channel>
-<atom:link href="https://gitlab.com/shlushnoam/xml/-/raw/main/harEztionRSS" type="application/rss+xml" rel="self"/>
-<copyright>&copy; ישיבת הר עציון</copyright>
-<link>https://castbox.fm/ch/5681397</link>
-<language>he</language>
-<title>לשמוע פרשה | קובץ שיעורים לפרשה מאת רבני ישיבת הר עציון</title>
-<description>
-...
-</description>
-<castbox:uid>2bddbd54b8614e77b9a2e6ab1343066b</castbox:uid>
-<castbox:pid>5681397</castbox:pid>
-<castbox:type/>
-<itunes:summary>
-...
-</itunes:summary>
-<itunes:subtitle/>
-<itunes:author>yeshivat har etzion</itunes:author>
-<itunes:owner>
-...
-</itunes:owner>
-<itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
-<itunes:keywords>Education,Judaism</itunes:keywords>
-<itunes:category text="Education"/>
-<itunes:category text="Religion & Spirituality">
-...
-</itunes:category>
-<itunes:explicit>no</itunes:explicit>
-<item>
-<title>מקץ | ברכת הגומל הרב יאיר קאהן</title>
-<description>
-<![CDATA[ <p>האם יש חיוב לברך ברכת הגומל על מי שהכניס עצמו למצב של סכנה?</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>האם יש חיוב לברך ברכת הגומל על מי שהכניס עצמו למצב של סכנה?</p> ]]>
-</content:encoded>
-<itunes:summary>האם יש חיוב לברך ברכת הגומל על מי שהכניס עצמו למצב של סכנה?</itunes:summary>
-<itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
-<enclosure url="https://s3.castbox.fm/25/65/55/f1b6844b6889bd0f4656205238.mp3" type="audio/mp3" length="7708634"/>
-<itunes:duration>00:32:07</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-4d40b90fd5f24aa2a504f3c19e7b2a17</guid>
-<pubDate>Wed, 13 Dec 2023 20:43:15 +0000</pubDate>
-<castbox:tid>656244360</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-...
-</item>
-<item>
-...
-</item>
-<item>
-<title>מקץ | חוכמתו של יוסף הרב אמנון בזק</title>
-<description>
-<![CDATA[ <p>מהי הנקודה הייחודית בחלומותיו&nbsp;</p><p>של פרעה המאפשרת לנו לעמוד על חוכמתו הרבה של יוסף?</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>מהי הנקודה הייחודית בחלומותיו&nbsp;</p><p>של פרעה המאפשרת לנו לעמוד על חוכמתו הרבה של יוסף?</p> ]]>
-</content:encoded>
-<itunes:summary>מהי הנקודה הייחודית בחלומותיו של פרעה המאפשרת לנו לעמוד על חוכמתו הרבה של יוסף?</itunes:summary>
-<itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
-<enclosure url="https://s3.castbox.fm/c4/47/19/fcb7d9459d86332206fb0ee00d.mp3" type="audio/mp3" length="7175177"/>
-<itunes:duration>00:29:53</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-fd7dc209f25e4331a1868daea4646b11</guid>
-<pubDate>Wed, 13 Dec 2023 20:37:23 +0000</pubDate>
-<castbox:tid>656241769</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>מקץ | דין ערב הרב ישי יסלזון</title>
-<description>
-<![CDATA[ <p>ראובן ויהודה מנסים לערוב לבנימין, אך מהדברים שהם מציעים לא ברור שהם יכולים להיות ערבים</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>ראובן ויהודה מנסים לערוב לבנימין, אך מהדברים שהם מציעים לא ברור שהם יכולים להיות ערבים</p> ]]>
-</content:encoded>
-<itunes:summary>ראובן ויהודה מנסים לערוב לבנימין, אך מהדברים שהם מציעים לא ברור שהם יכולים להיות ערבים</itunes:summary>
-<itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
-<enclosure url="https://s3.castbox.fm/f0/6a/9b/9e06c84088aa05fead7e7c85ac.mp3" type="audio/mp3" length="16175110"/>
-<itunes:duration>00:33:41</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-f8c62dad787042ed8b4250b3be6e653b</guid>
-<pubDate>Wed, 13 Dec 2023 20:36:19 +0000</pubDate>
-<castbox:tid>656241541</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>מקץ | גדולתו של יהודה הרב עזרא ביק</title>
-<description>
-<![CDATA[ <p>כאורה התבלטותו של יהודה מופיעה בפרשה הבאה, פרשת ויגש. האם אפשר למצוא את גדולתו גם בפרשתנו?</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>כאורה התבלטותו של יהודה מופיעה בפרשה הבאה, פרשת ויגש. האם אפשר למצוא את גדולתו גם בפרשתנו?</p> ]]>
-</content:encoded>
-<itunes:summary>כאורה התבלטותו של יהודה מופיעה בפרשה הבאה, פרשת ויגש. האם אפשר למצוא את גדולתו גם בפרשתנו?</itunes:summary>
-<itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg"/>
-<enclosure url="https://s3.castbox.fm/58/93/dd/e57ad54bb5920e62863c52e706.mp3" type="audio/mp3" length="7601719"/>
-<itunes:duration>00:31:40</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-eecc0bca9a1d49bf9535dfdd47915e9c</guid>
-<pubDate>Wed, 13 Dec 2023 20:34:57 +0000</pubDate>
-<castbox:tid>656241190</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישב | מכירת יוסף וסיפור יהודה ותמר הרב יונתן גרוסמן</title>
-<description>
-<![CDATA[ <p>על מיקומו של סיפור יהודה ותמר באמצע סיפורי מכירת יוסף ועל הקשר בין שני הסיפורים.</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>על מיקומו של סיפור יהודה ותמר באמצע סיפורי מכירת יוסף ועל הקשר בין שני הסיפורים.</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>על מיקומו של סיפור יהודה ותמר באמצע סיפורי מכירת יוסף ועל הקשר בין שני הסיפורים.</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/17/6d/90/6b23c5474683c92994f3de248a.mp3" type="audio/mp3" length="8862645"/>
-<itunes:duration>00:36:55</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-e5be4dd4bb49455ab9fe6b956deeef92</guid>
-<pubDate>Mon, 04 Dec 2023 12:28:20 +0000</pubDate>
-<castbox:tid>650031888</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישב | יוסף ופרשת יהודה ותמר הרב משה ליכטנשטיין והרב ניצן ברגר</title>
-<description>
-<![CDATA[ <p>הרב ניצן ברגר על&nbsp;מדרגת יוסף לעומת מדרגת שאר האחים, והרב משה ליכטנשטיין על הופעת פרשת יהודה ותמר באמצע סיפור יוסף.</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>הרב ניצן ברגר על&nbsp;מדרגת יוסף לעומת מדרגת שאר האחים, והרב משה ליכטנשטיין על הופעת פרשת יהודה ותמר באמצע סיפור יוסף.</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>הרב ניצן ברגר על מדרגת יוסף לעומת מדרגת שאר האחים, והרב משה ליכטנשטיין על הופעת פרשת יהודה ותמר באמצע סיפור יוסף.</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/07/ce/41/b881c74838998c20036cd6938a.mp3" type="audio/mp3" length="9344591"/>
-<itunes:duration>00:38:56</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-de64b233a1394e0f817e13613e660329</guid>
-<pubDate>Mon, 04 Dec 2023 12:27:31 +0000</pubDate>
-<castbox:tid>650031820</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>מכירת יוסף הרב זאב וייטמן</title>
-<description>
-<![CDATA[ <p>מכירת יוסף הרב זאב וייטמן</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>מכירת יוסף הרב זאב וייטמן</p> ]]>
-</content:encoded>
-<itunes:summary>מכירת יוסף הרב זאב וייטמן</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/cf/81/41/59336641048fd4a59a3c5f7719.mp3" type="audio/mp3" length="6544624"/>
-<itunes:duration>00:27:16</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-5ee4b0edaa304f8b9ea7db54df64d0c3</guid>
-<pubDate>Mon, 04 Dec 2023 12:26:15 +0000</pubDate>
-<castbox:tid>650031708</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישב | תענית חלום הרב יאיר קאהן</title>
-<description>
-<![CDATA[ <p>מה עניינה של תענית חלום, ומדוע מי שמתענה בשבת צריך להשלים למחרת?</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>מה עניינה של תענית חלום, ומדוע מי שמתענה בשבת צריך להשלים למחרת?</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>מה עניינה של תענית חלום, ומדוע מי שמתענה בשבת צריך להשלים למחרת?</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/c3/3b/22/ea9c1940059b3c2fa776d62768.mp3" type="audio/mp3" length="7792952"/>
-<itunes:duration>00:32:28</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-feff8ec8413b4520b2131bdf70df2cce</guid>
-<pubDate>Mon, 04 Dec 2023 12:25:37 +0000</pubDate>
-<castbox:tid>650031660</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישב | סיפור יהודה ותמר הרב אמנון בזק</title>
-<description>
-<![CDATA[ <p>מדוע התורה מאריכה לספר לנו על סיפור שלא קשור לפרק שלפניו ולפרק אחריו?</p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>מדוע התורה מאריכה לספר לנו על סיפור שלא קשור לפרק שלפניו ולפרק אחריו?</p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>מדוע התורה מאריכה לספר לנו על סיפור שלא קשור לפרק שלפניו ולפרק אחריו?</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/83/f8/2e/0b5af942a7841dc6692c10eba9.mp3" type="audio/mp3" length="9660856"/>
-<itunes:duration>00:40:15</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-8d1ea36fe76d4adb8745550497ee7dc7</guid>
-<pubDate>Mon, 04 Dec 2023 12:24:56 +0000</pubDate>
-<castbox:tid>650031565</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישב | איסור ייחוד הרב ישי יסלזון</title>
-<description>
-<![CDATA[ <p>בעקבות מעשה יוסף ואשת פוטיפר, נדון היום בשורשים ובגדרים הבסיסיים של איסור יחוד. ננסה להבין האם תוקפו של האיסור מדאורייתא או מדרבנן ונעמוד קצת על טעמו ומהותו.</p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>בעקבות מעשה יוסף ואשת פוטיפר, נדון היום בשורשים ובגדרים הבסיסיים של איסור יחוד. ננסה להבין האם תוקפו של האיסור מדאורייתא או מדרבנן ונעמוד קצת על טעמו ומהותו.</p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>בעקבות מעשה יוסף ואשת פוטיפר, נדון היום בשורשים ובגדרים הבסיסיים של איסור יחוד. ננסה להבין האם תוקפו של האיסור מדאורייתא או מדרבנן ונעמוד קצת על טעמו ומהותו.</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/d0/8b/e4/0768e54f1b96d4e4b3dd418b55.mp3" type="audio/mp3" length="14865525"/>
-<itunes:duration>00:30:58</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-fb7f4cd9c44042aea32d2d49a9826fc1</guid>
-<pubDate>Mon, 04 Dec 2023 12:23:04 +0000</pubDate>
-<castbox:tid>650031346</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>הקמת המצבה בבית אל הרב עזרא ביק</title>
-<description>
-<![CDATA[ <p>הקמת המצבה בבית אל הרב עזרא ביק</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>הקמת המצבה בבית אל הרב עזרא ביק</p> ]]>
-</content:encoded>
-<itunes:summary>הקמת המצבה בבית אל הרב עזרא ביק</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/2e/10/68/71ce8d4cb9bcdfdd734df34625.mp3" type="audio/mp3" length="7717067"/>
-<itunes:duration>00:32:09</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-51d92de4fabc4f5b8d6711fc43eadda3</guid>
-<pubDate>Mon, 27 Nov 2023 12:19:15 +0000</pubDate>
-<castbox:tid>650030632</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישלח | משמעות הכתובה הרב יאיר קאהן</title>
-<description>
-<![CDATA[ <p>מדוע יש צורך לתת כתובה לאישה לפני החתונה? האם לא מספיק פשוט לתת לה מתנות וכלים שהיא צריכה?</p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>מדוע יש צורך לתת כתובה לאישה לפני החתונה? האם לא מספיק פשוט לתת לה מתנות וכלים שהיא צריכה?</p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>מדוע יש צורך לתת כתובה לאישה לפני החתונה? האם לא מספיק פשוט לתת לה מתנות וכלים שהיא צריכה?</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/74/c2/6c/7eb21f45888c7566d46df4cd96.mp3" type="audio/mp3" length="8014371"/>
-<itunes:duration>00:33:23</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-0d81c087cc7b4b6eb1ebe26a4ea3b275</guid>
-<pubDate>Mon, 27 Nov 2023 12:17:43 +0000</pubDate>
-<castbox:tid>650030414</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישלח | מעלת עם ישראל הרב ברוך גיגי</title>
-<description>
-<![CDATA[ <p>עיון במשך חכמה על פרשת וישלח: שתי הבנות בפירוש הפסוק "ויהי לי שור וחמור", שבא לבאר את מעלת יעקב על עשיו.</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>עיון במשך חכמה על פרשת וישלח: שתי הבנות בפירוש הפסוק "ויהי לי שור וחמור", שבא לבאר את מעלת יעקב על עשיו.</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>עיון במשך חכמה על פרשת וישלח: שתי הבנות בפירוש הפסוק "ויהי לי שור וחמור", שבא לבאר את מעלת יעקב על עשיו.</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/4b/6a/4f/b921c44aaf81fcdbbd212476a3.mp3" type="audio/mp3" length="6443658"/>
-<itunes:duration>00:26:50</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-f9bdc867e1cc4048a17e6e2b025f88e5</guid>
-<pubDate>Mon, 27 Nov 2023 12:16:50 +0000</pubDate>
-<castbox:tid>650030307</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>התאווה המתפרצת הרב עוזי פרידליך</title>
-<description>
-<![CDATA[ <p>על אחת הפרשיות היותר מסעירות בתורה - פרשת דינה ושכם.</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>על אחת הפרשיות היותר מסעירות בתורה - פרשת דינה ושכם.</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>על אחת הפרשיות היותר מסעירות בתורה - פרשת דינה ושכם.</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/7e/f3/72/b93aca4594879bc5696abd0104.mp3" type="audio/mp3" length="5931633"/>
-<itunes:duration>00:24:42</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-8daaf503ded44a91be15321db9898b73</guid>
-<pubDate>Mon, 27 Nov 2023 12:15:59 +0000</pubDate>
-<castbox:tid>650030128</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישלח | על פי המהר"ל הרב בני להמן</title>
-<description>
-<![CDATA[ <p>מה ההבדל בין כוכבי השמים לעפר הארץ וחול הים? על ריבוי והתרבות, ראשית והתפשטות</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>מה ההבדל בין כוכבי השמים לעפר הארץ וחול הים? על ריבוי והתרבות, ראשית והתפשטות</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>מה ההבדל בין כוכבי השמים לעפר הארץ וחול הים? על ריבוי והתרבות, ראשית והתפשטות</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/d4/06/9f/f342b4438895660086db55dead.mp3" type="audio/mp3" length="7711907"/>
-<itunes:duration>00:32:07</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-a05a97edbf0a47729b14e87cb5465ed8</guid>
-<pubDate>Mon, 27 Nov 2023 12:15:13 +0000</pubDate>
-<castbox:tid>650030041</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>וישלח | שייכותם של גויים בקיום מצוות הרב ישי יסלזון</title>
-<description>
-<![CDATA[ <p>האם גוי יכול לקיים מצוות שהוא לא נצטווה בהם? האם היה מותר לתושבי שכם למול עצמם למרות היותם גויים?&nbsp;ננסה לבחון את השייכות של קיום מצוות שאינן משבע מצוות בני נח ע"י גויים.</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>האם גוי יכול לקיים מצוות שהוא לא נצטווה בהם? האם היה מותר לתושבי שכם למול עצמם למרות היותם גויים?&nbsp;ננסה לבחון את השייכות של קיום מצוות שאינן משבע מצוות בני נח ע"י גויים.</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>האם גוי יכול לקיים מצוות שהוא לא נצטווה בהם? האם היה מותר לתושבי שכם למול עצמם למרות היותם גויים? ננסה לבחון את השייכות של קיום מצוות שאינן משבע מצוות בני נח ע"י גויים.</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/43/92/d8/04d9f4485493226c54a792d0e2.mp3" type="audio/mp3" length="15602027"/>
-<itunes:duration>00:32:30</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-79ad64c271274838885505bd088fe3b5</guid>
-<pubDate>Mon, 27 Nov 2023 12:14:22 +0000</pubDate>
-<castbox:tid>650029967</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>ויצא | סולם יעקב - דגם לעבודת ה' הרב נחמיה רענן</title>
-<description>
-<![CDATA[ <p>עבודת ה' בנויה באופן אינטרגלי מעליות וירידות, ודווקא הירידה מאפשרת אחריה את העלייה</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>עבודת ה' בנויה באופן אינטרגלי מעליות וירידות, ודווקא הירידה מאפשרת אחריה את העלייה</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>עבודת ה' בנויה באופן אינטרגלי מעליות וירידות, ודווקא הירידה מאפשרת אחריה את העלייה</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/9d/8d/bf/6537b54eb4b94049dcc778361f.mp3" type="audio/mp3" length="15553510"/>
-<itunes:duration>00:29:11</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-834f192c045c41c8a0b4e344b364219d</guid>
-<pubDate>Mon, 20 Nov 2023 12:10:55 +0000</pubDate>
-<castbox:tid>650029510</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>ויצא | סולם יעקב הרב זאב וייטמן</title>
-<description>
-<![CDATA[ <p>במה התייחד חלומו של יעקב? מה היחס בין בית אל לירושלים בחלומו של יעקב?</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>במה התייחד חלומו של יעקב? מה היחס בין בית אל לירושלים בחלומו של יעקב?</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>במה התייחד חלומו של יעקב? מה היחס בין בית אל לירושלים בחלומו של יעקב?</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/c5/13/7d/180e06452b9c1de98f3c8ce44b.mp3" type="audio/mp3" length="8439166"/>
-<itunes:duration>00:35:09</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-cd8e916ef4dd4662a7472cdbd03f7f31</guid>
-<pubDate>Mon, 20 Nov 2023 12:09:51 +0000</pubDate>
-<castbox:tid>650029414</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>ויצא | חידוש התפילה הרב יאיר קאהן</title>
-<description>
-<![CDATA[ <p>האם תפילה אמורה לבטא את העבדות שלנו לקב"ה, כלומר, אנחנו מתפללים כי אנחנו מחויבים לכך, או שמא אנחנו מתפללים בשביל הצרכים שלנו ובכך שורש התפילה היא תחנונים ולא עבודה?</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>האם תפילה אמורה לבטא את העבדות שלנו לקב"ה, כלומר, אנחנו מתפללים כי אנחנו מחויבים לכך, או שמא אנחנו מתפללים בשביל הצרכים שלנו ובכך שורש התפילה היא תחנונים ולא עבודה?</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>האם תפילה אמורה לבטא את העבדות שלנו לקב"ה, כלומר, אנחנו מתפללים כי אנחנו מחויבים לכך, או שמא אנחנו מתפללים בשביל הצרכים שלנו ובכך שורש התפילה היא תחנונים ולא עבודה?</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/c4/48/d7/76c9f9403699a58f37879b97cf.mp3" type="audio/mp3" length="8019511"/>
-<itunes:duration>00:33:24</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-d544f68c74f944859462f2e9b79589f8</guid>
-<pubDate>Mon, 20 Nov 2023 12:09:11 +0000</pubDate>
-<castbox:tid>650029310</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>ויצא | על פי המהר"ל הרב בני להמן</title>
-<description>
-<![CDATA[ <p>השיעור עוסק ביחסו של מהר"ל לחטאי אבות, ובמעלתו של יעקב אבינו כשורש האחדות.</p><p><br></p><p><br></p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>השיעור עוסק ביחסו של מהר"ל לחטאי אבות, ובמעלתו של יעקב אבינו כשורש האחדות.</p><p><br></p><p><br></p> ]]>
-</content:encoded>
-<itunes:summary>השיעור עוסק ביחסו של מהר"ל לחטאי אבות, ובמעלתו של יעקב אבינו כשורש האחדות.</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/0d/28/74/322d1248ebb20bfd2cac4079b7.mp3" type="audio/mp3" length="11541247"/>
-<itunes:duration>00:48:04</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-93c740ecca93408b9c7241012506823d</guid>
-<pubDate>Mon, 20 Nov 2023 12:08:32 +0000</pubDate>
-<castbox:tid>650029226</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-<title>ויצא | בית אל | הרב יעקב מדן</title>
-<description>
-<![CDATA[ <p>ויצא | בית אל | הרב יעקב מדן</p> ]]>
-</description>
-<content:encoded>
-<![CDATA[ <p>ויצא | בית אל | הרב יעקב מדן</p> ]]>
-</content:encoded>
-<itunes:summary>ויצא | בית אל | הרב יעקב מדן</itunes:summary>
-<itunes:image href=""/>
-<enclosure url="https://s3.castbox.fm/48/bc/fc/85266b4f59b44a2471a241b6f5.mp3" type="audio/mp3" length="6140216"/>
-<itunes:duration>00:25:34</itunes:duration>
-<guid isPermaLink="false">album-d82ede0d721f4a849434377b9ea09f09-45c594007f624b6181959ffd59a1acbc</guid>
-<pubDate>Mon, 20 Nov 2023 12:06:40 +0000</pubDate>
-<castbox:tid>650029009</castbox:tid>
-<castbox:episode_premium/>
-<itunes:explicit>no</itunes:explicit>
-</item>
-<item>
-...
-</item>
-</channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[על שם מה]]></title>
+		<description><![CDATA[-בהפסקה-
+"על שם מה" - הפודקאסט שמדבר על הדברים שקרויים על שם אנשים ועל האנשים שקרויים על שמם דברים.
+בכל פרק רועי והלל לוקחים דמות שיש על שמה משהו- יחידות מידה, מקומות, חפצים, יסודות, מוצרים... ומדברים אליה ועל מה שקרויי על שמה.
+----------------------
+• לאתר הפודקאסט: https://did.li/alshemma
+• האזנה בכל האפליקציות: https://pod.link/alshemma
+• לעידכוני פרקים בוואטסאפ: https://chat.whatsapp.com/E92uzohuuJWJF1lYZI9cl3
+•לקבוצת פייסבוק:
+https://www.facebook.com/groups/alshemma
+•לערוץ וקבוצת הטלגרם: https://t.me/alshemma]]></description>
+		<link>https://sites.google.com/view/alshemma</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg</url>
+			<title>על שם מה</title>
+			<link>https://sites.google.com/view/alshemma</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 12 Dec 2023 09:12:20 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/3ee93598/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[רועי והלל]]></author>
+		<copyright><![CDATA[רועי והלל]]></copyright>
+		<language><![CDATA[he]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>רועי והלל</itunes:author>
+		<itunes:summary>-בהפסקה-
+&quot;על שם מה&quot; - הפודקאסט שמדבר על הדברים שקרויים על שם אנשים ועל האנשים שקרויים על שמם דברים.
+בכל פרק רועי והלל לוקחים דמות שיש על שמה משהו- יחידות מידה, מקומות, חפצים, יסודות, מוצרים... ומדברים אליה ועל מה שקרויי על שמה.
+----------------------
+• לאתר הפודקאסט: https://did.li/alshemma
+• האזנה בכל האפליקציות: https://pod.link/alshemma
+• לעידכוני פרקים בוואטסאפ: https://chat.whatsapp.com/E92uzohuuJWJF1lYZI9cl3
+•לקבוצת פייסבוק:
+https://www.facebook.com/groups/alshemma
+•לערוץ וקבוצת הטלגרם: https://t.me/alshemma</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>רועי והלל</itunes:name>
+			<itunes:email>podcastalshemma@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="History"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg"/>
+		<item>
+			<title><![CDATA[על שם מה⁉️ - פרק מיוחד לפורים על בייקון, פיליפס, אוטו, חאן, פוטר וסנדוויץ 6#]]></title>
+			<description><![CDATA[פרק פורימי במיוחד המדבר על המאכל ביקון ש{לא} נקרא על שם רוג'ר בייקון הצייר הידוע, ועל מברג הפיליפס המהולל ש{לא} נקרא על שם חברת המכונות גילוח המשובחת פיליס, ועל האוטו המשומש ש{לא} נקרא על שם ממציאו הלו הוא ניקולאוס אוטו, ועל החאנות הפרוסות בצידי הדרכים ה{לא} קרויים על ג'ינגיס חאן, ועל הארי פוטר החייל האגדי ולבסוף על התחפושת המדהימה - סנד-וויץ'. קצת חשובות לא עובדות
+https://did.li/S-purim :קישורים ודברים שהוזכרו במהלך הפרק באתר הפודקאסט
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/----------------6-e1fif4o</link>
+			<guid isPermaLink="false">682a1a8d-f284-46cb-ba7f-b25fa93a1c05</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Tue, 15 Mar 2022 04:43:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/48888408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F3ee93598%2F48888408%2F3ab2eaa8078d1de916a0c4ba4ff8b583.m4a" length="40857159" type="audio/x-m4a"/>
+			<itunes:summary>פרק פורימי במיוחד המדבר על המאכל ביקון ש{לא} נקרא על שם רוג&apos;ר בייקון הצייר הידוע, ועל מברג הפיליפס המהולל ש{לא} נקרא על שם חברת המכונות גילוח המשובחת פיליס, ועל האוטו המשומש ש{לא} נקרא על שם ממציאו הלו הוא ניקולאוס אוטו, ועל החאנות הפרוסות בצידי הדרכים ה{לא} קרויים על ג&apos;ינגיס חאן, ועל הארי פוטר החייל האגדי ולבסוף על התחפושת המדהימה - סנד-וויץ&apos;. קצת חשובות לא עובדות
+https://did.li/S-purim :קישורים ודברים שהוזכרו במהלך הפרק באתר הפודקאסט
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:42:06</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/10454710/10454710-1647168502036-d154c1cfb78bc.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[אנה פבלובה #5.5]]></title>
+			<description><![CDATA[<p>הלל מדבר על אנה פבלובה - הבלרינה הרוסיה שעל שמה (כך ההגדה) קרוי הקינוח המעולה פבלובה, ומדבר על הכימיה של הפבלובה (מרנג).</p>
+<p><a href="https://did.li/pavlova">דף הפרק באתר: https://did.li/pavlova</a></p>
+<ul>
+ <li><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.bbc.com%2Ftravel%2Farticle%2F20200804-the-surprising-truth-about-pavlovas-origins&amp;sa=D" target="_blank"><u>מאמר על מוצאה של הפבלובה</u></a></li>
+ <li><strong>הפודקאסטים המומלצים-</strong></li>
+  <li><a href="https://www.podbean.com/podcast-detail/9e49v-a3764/%D7%A4%D7%94-%D7%95%D7%A9%D7%9D-%D7%91%D7%90%D7%A8%D7%A5-%D7%99%D7%A9%D7%A8%D7%90%D7%9C--%D7%A4%D7%A2%D7%99%D7%9C%21-Podcast"><u>פה ושם בארץ ישראל</u></a></li>
+</ul>
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/5-5-e1dgj54</link>
+			<guid isPermaLink="false">ce7fcad1-91f2-40c9-aa1c-7d6e3d0d0897</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Wed, 26 Jan 2022 22:48:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/46729828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-26%2F244541219-44100-2-236ee71d9bbd1.m4a" length="15956443" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;הלל מדבר על אנה פבלובה - הבלרינה הרוסיה שעל שמה (כך ההגדה) קרוי הקינוח המעולה פבלובה, ומדבר על הכימיה של הפבלובה (מרנג).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://did.li/pavlova&quot;&gt;דף הפרק באתר: https://did.li/pavlova&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://www.google.com/url?q=https%3A%2F%2Fwww.bbc.com%2Ftravel%2Farticle%2F20200804-the-surprising-truth-about-pavlovas-origins&amp;amp;sa=D&quot; target=&quot;_blank&quot;&gt;&lt;u&gt;מאמר על מוצאה של הפבלובה&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;הפודקאסטים המומלצים-&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.podbean.com/podcast-detail/9e49v-a3764/%D7%A4%D7%94-%D7%95%D7%A9%D7%9D-%D7%91%D7%90%D7%A8%D7%A5-%D7%99%D7%A9%D7%A8%D7%90%D7%9C--%D7%A4%D7%A2%D7%99%D7%9C%21-Podcast&quot;&gt;&lt;u&gt;פה ושם בארץ ישראל&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:16:26</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/10454710/10454710-1618153785464-e3fe4ba875ebc.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[דקה עלשמית 4.5]]></title>
+			<description><![CDATA[<p>מי שינה את שמו בגלל שם של רחוב? על שם איזה ראש ממשלה אין רחוב מעבר לקו הירוק? על שם מי נקרא בית ספר "הכפר הירוק ע"ש לוי אשכול"? מי היה רייש גלותא של ת"א? ועוד...</p>
+<p>-פרודיה נחמדה על דקה ישראלית עם סיפור מעניין -</p>
+<p>:לדף האתר בו יש סוג של תמלול, רשימת פודקאסטים מומלצים, עיון נוסף והקלטת הודעה קולית</p>
+<p><a href=" https://sites.google.com/view/alshemma/הפרקים/דקה-עלשמית" target="_blank">https://sites.google.com/view/alshemma/הפרקים/דקה-עלשמית</a></p>
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/4-5-e17g5c6</link>
+			<guid isPermaLink="false">add36b40-8811-4bb9-b3cc-14ec50e75937</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Sun, 19 Sep 2021 18:43:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/40424262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-09-19%2F8fc990f9657a9a33efc96ad24f436cb5.m4a" length="9556361" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;מי שינה את שמו בגלל שם של רחוב? על שם איזה ראש ממשלה אין רחוב מעבר לקו הירוק? על שם מי נקרא בית ספר &quot;הכפר הירוק ע&quot;ש לוי אשכול&quot;? מי היה רייש גלותא של ת&quot;א? ועוד...&lt;/p&gt;
+&lt;p&gt;-פרודיה נחמדה על דקה ישראלית עם סיפור מעניין -&lt;/p&gt;
+&lt;p&gt;:לדף האתר בו יש סוג של תמלול, רשימת פודקאסטים מומלצים, עיון נוסף והקלטת הודעה קולית&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot; https://sites.google.com/view/alshemma/הפרקים/דקה-עלשמית&quot; target=&quot;_blank&quot;&gt;https://sites.google.com/view/alshemma/הפרקים/דקה-עלשמית&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/10454710/10454710-1618153785464-e3fe4ba875ebc.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[מיג 3.5#]]></title>
+			<description><![CDATA[<p>סיפורם של ארטיום מיקויאן ומיכאיל גורביץ' ממציאי מטוס המיג האגדי.</p>
+<p>:לדף הפרק באתר</p>
+<p>https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%9E%D7%99%D7%92</p>
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/3-5-e15aqlh</link>
+			<guid isPermaLink="false">8ddd8a8d-7247-49e4-b8a2-0342cd40e5c7</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Sun, 01 Aug 2021 20:19:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/38152305/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-02%2Fe4b46451ac11d38f5b12e1bc52f68984.m4a" length="7899586" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;סיפורם של ארטיום מיקויאן ומיכאיל גורביץ&apos; ממציאי מטוס המיג האגדי.&lt;/p&gt;
+&lt;p&gt;:לדף הפרק באתר&lt;/p&gt;
+&lt;p&gt;https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%9E%D7%99%D7%92&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:08:08</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[פילופוסים של מולוטוב #'3]]></title>
+			<description><![CDATA[זהו פרק מיוחד המורכב מהפילסופים והפיספוסים שהיו במהלך ההקלטה של הפרק על מולוטוב. הפרק לא מתאים למאזינים חדשים.
+לאתר: https://bit.ly/32pxH4Q
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/3-ev14ip</link>
+			<guid isPermaLink="false">fac2c01e-258b-49a6-994d-0b0933c503c3</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Sat, 01 May 2021 19:01:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/31543321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-06-01%2F3a14d5ebe24d37e5f8d348d11e922229.m4a" length="12092437" type="audio/x-m4a"/>
+			<itunes:summary>זהו פרק מיוחד המורכב מהפילסופים והפיספוסים שהיו במהלך ההקלטה של הפרק על מולוטוב. הפרק לא מתאים למאזינים חדשים.
+לאתר: https://bit.ly/32pxH4Q
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:12:27</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg"/>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ויאצ'סלב מולוטוב 3#]]></title>
+			<description><![CDATA[<p>רועי והלל משוחחים על חייו של מולוטוב ועל הדברים שקרויים על שמו: הסכם ריבנטרופ- מולוטוב, קו מולוטוב, נייט מולוטוב, סלי הלחם של מולוטוב, בקבוק מולוטוב, והמקומות הרבים שהיו קרויים על שמו עד 1957&nbsp;</p>
+<p><a href="https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%95%D7%99%D7%90%D7%A6%D7%A1%D7%9C%D7%91-%D7%9E%D7%95%D7%9C%D7%95%D7%98%D7%95%D7%91">לאתר : https://bit.ly/39RfL7p</a></p>
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/3-eu1gth</link>
+			<guid isPermaLink="false">6335ad3a-e41b-4ba2-9074-52afd3229dcc</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Thu, 01 Apr 2021 20:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/30507377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-07-05%2Fad3418d674c26d097de77dc3a4aec2e3.m4a" length="41082974" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;רועי והלל משוחחים על חייו של מולוטוב ועל הדברים שקרויים על שמו: הסכם ריבנטרופ- מולוטוב, קו מולוטוב, נייט מולוטוב, סלי הלחם של מולוטוב, בקבוק מולוטוב, והמקומות הרבים שהיו קרויים על שמו עד 1957&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%95%D7%99%D7%90%D7%A6%D7%A1%D7%9C%D7%91-%D7%9E%D7%95%D7%9C%D7%95%D7%98%D7%95%D7%91&quot;&gt;לאתר : https://bit.ly/39RfL7p&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:42:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg"/>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ג'יימס וב #2.5]]></title>
+			<description><![CDATA[<p><em><strong>&nbsp;http://bit.ly/3kxHnCi :רועי מספר בפרק קצר על ג'יימס ווב וטלסקופ החלל שקרוי על שמו. והלל מספר על ה"גמד וענק" והפודקאסט- "מתבגרים.פוד". </strong></em><a href="https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%92%D7%99%D7%99%D7%9E%D7%A1-%D7%95%D7%95%D7%91"><em><strong>לאתר</strong></em></a></p>
+<p><u><strong>תמלול:</strong></u></p>
+<p>אז מי בעצם היה ג'יימס ווב ולמה נקרא על שמו טלסקופ חלל. הוא נולד בשנת 1906 בצפון קרוליינה לאביו שהיה מפקח על בתי ספר ציבוריים. הוא השלים את לימודיו בקולג' צפון קרוליינה בצ'אפל היל, שם למד לתואר. לאחר מכן הוא התנדב לחיל הנחתים האמריקאי ושרת שם כסגן משנה וטייס בין 1930-1932. בהמשך הוא עבד בתור המזכיר של פרנקלין רוזוולט ב-100 הימים הראשונים של כהונתו כנשיא.</p>
+<p>לקראת סוף מלחמת העולם השניה ווב התגייס לצבא. חשוב לומר שווב רצה להתגייס עוד בתחילת המלחמה אך הדבר לא התאפשר. במהלך שירותו הוא מונה למפקד קבוצת בקרה אווירית ימית ומפקד כנף. הוא היה אמור להיות מפקד הפלישה על יפן אך בסוף הדבר לא יצא אל הפועל עקב כניעת יפן.</p>
+<p>לאחר מלחמת העולם השנייה ווב חזר לוושינגטון ושימש כתת מזכיר האוצר בכהונתו השנייה של הנשיא טרומן הוא מונה למזכיר חוץ וכמנהל מדיניות החוץ האמריקאית.</p>
+<p>ב 1961 ווב מונה להיות מנכ"ל נאס"א ע"י קנדי. עד למינויו נאס"א הייתה גוף שולי ואת רוב משימות החלל עשה חיל האוויר האמריקאי. ווב הרחיב את נאס"א וגרם לה להיות הגוף המרכזי בתוכנית החלל האמריקאית. הוא דאג לכך שנאס"א תוכל לקיים את הבטחת הנשיא קנדי בראשית שנות השישים- "ארצות הברית תנחת על הירח עד סוף העשור" הוא מיקד את NASA להתעסק בטיסות מאוישות כגון אפולו מרקורי וג'מני. למרות האסון של אפולו 1 הוא המשיך לדחוף קדימה ובזכותו טיסת אפולו 11 נחתה על הירח באפריל 1969 ( הרקע לדחיפה זו היתה הנחה שהתאמתה לאחר נפילת בריה"מ- שהרוסים מתכוונים להקדים את ארה"ב בהגעת אדם לירח)</p>
+<p>עקב תפקידו המשמעותי בנאס"א אפשר להבין למה NASA החליטה לקרוא על שמו טלסקופ חלל.</p>
+<p>טלסקופ החלל על שם ווב נועד להיות היורש של טלסקופ החלל המפורסם- האבל, אבל בניגוד לקודמו שעבד בכל אורכי הגל שאפשר לקלוט הטלסקופ הזה נועד לעבוד רק באורך גל אינפרה אדום. אורך גל אינפרה אדום הוא תדר בלתי נראה לעין בלתי מזויינת. תדר זה מאוד נוח לחקר קוסמולוגי ומאפשר להגדיל את טווח הטלסקופ. מעבר לבחירת התדר- על מנת להגדיל את הטווח יותר מתוכננת המראה הראשית שלו להיות בקוטר ענק של שישה מטרים. האמת היא שלא ניתן לשלוח דבר כזה גדול לחלל בצורה פרוסה. הפתרון שמתכנני הטלסקופ בחרו הוא לקפל את הטלסקופ ל- 18 מראות קטנות יותר בצורת משושה. שיפור נוסף התקבל על ידי ציפוי כל המראות בזהב כדי לקלוט את אורך גל של אינפרה אדום טוב יותר. הטלסקופ בנויה בצורה מאוד חכמה וקלה. על מנת להמחיש את גודלו הגדול ומשקלו הנמוך של הטלסקופ נוכל לדמות זאת בקירוב למחצית גודלו של מטוס בואינג 737 בעוד שמסתו מהווה רק כ־8% ממסתו של המטוס .</p>
+<p>נקודת הצבתו של הטלסקופ בחלל היא נקודה L2. אתם בטח שואלים מה זו נקודה L2. נקודה L2 היא חלק מאוסף נקודות שנקראות נקודות לגראנז'. נקודות לגראנז' הן נקודות בין שני גופים בהן כוח המשיכה של שני הגופים מתקזז וגוף שנמצא בנקודה כזו ישאר במקומו יחסית לשני הגופים ללא השקעת אנרגיה. היתרון בהצבת הטלסקופ בנקודה כזו הוא שאין צורך בהפעלת אנרגיה כדי להשאירו במקומו. חלק מהאתגרים בשהייתו בנקודה זו הם תנאי הסביבה הקשים. על מנת שקרינת האינפרה אדום של השמש לא תיפגע בו תכננו ובנו לו מגן ענק שמגן עליו מקרינת השמש</p>
+<p>‏בגלל כל החידושים שהזכרנו - טלסקופ החלל נקרא גם הדבר הבא שזהו דבר די מגניב במיוחד כשיש חלק במסע בין כוכבים שנקרא כך. בגלל החידושים הרבים בטלסקופ בניית הטלסקופ התעכבה בכ-20 שנה והעלות שלו צמחה לכ- 8.8 מיליארד דולר. בעקבות זה חשבו לבטל את הבנייה שלו ב-2010 אבל בסוף זה לא קרה. הטלסקופ תוכנן לשיגור מספר פעמים אך בכל פעם השיגור נדחה מסיבות אחרות האחרונה שבהם היא הקורונה. כרגע הצפי להיום הוא &nbsp;31 באוקטובר 2021. אחרי העיכובים הרבים שציינו כבר נסגרה תוכנית השיגורים האמריקאית והטלסקופ ישוגר בעזרת השם על ידי משגר לוויינים אירופאי. מה עוד שהטלסקופ נעשה בשיתוף פעולה של נאס"א וסוכנות החלל האירופאית.</p>
+<p><strong>תודה מיוחדת לגל הירש שהקליט עבורנו &nbsp;את פתיח הפרק</strong></p>
+<p><strong>&nbsp;&nbsp;</strong><u><strong>מילות מפתח:</strong></u><strong> </strong>גיימס ווב &nbsp;ג'יימס ווב &nbsp;ג'ימס ווב &nbsp;ג'ימס וב &nbsp;גיימס וב &nbsp;טלסקופ החלל &nbsp;&nbsp;</p>
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/2-5-er8php</link>
+			<guid isPermaLink="false">2c4988b5-9e58-4a0d-af7e-0519548414b9</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Mon, 01 Mar 2021 08:37:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/27599865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-03-01%2Fd6bdc96b742cf3fcf9aa230090f1ac03.m4a" length="9330241" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;em&gt;&lt;strong&gt;&amp;nbsp;http://bit.ly/3kxHnCi :רועי מספר בפרק קצר על ג&apos;יימס ווב וטלסקופ החלל שקרוי על שמו. והלל מספר על ה&quot;גמד וענק&quot; והפודקאסט- &quot;מתבגרים.פוד&quot;. &lt;/strong&gt;&lt;/em&gt;&lt;a href=&quot;https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%92%D7%99%D7%99%D7%9E%D7%A1-%D7%95%D7%95%D7%91&quot;&gt;&lt;em&gt;&lt;strong&gt;לאתר&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;תמלול:&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;אז מי בעצם היה ג&apos;יימס ווב ולמה נקרא על שמו טלסקופ חלל. הוא נולד בשנת 1906 בצפון קרוליינה לאביו שהיה מפקח על בתי ספר ציבוריים. הוא השלים את לימודיו בקולג&apos; צפון קרוליינה בצ&apos;אפל היל, שם למד לתואר. לאחר מכן הוא התנדב לחיל הנחתים האמריקאי ושרת שם כסגן משנה וטייס בין 1930-1932. בהמשך הוא עבד בתור המזכיר של פרנקלין רוזוולט ב-100 הימים הראשונים של כהונתו כנשיא.&lt;/p&gt;
+&lt;p&gt;לקראת סוף מלחמת העולם השניה ווב התגייס לצבא. חשוב לומר שווב רצה להתגייס עוד בתחילת המלחמה אך הדבר לא התאפשר. במהלך שירותו הוא מונה למפקד קבוצת בקרה אווירית ימית ומפקד כנף. הוא היה אמור להיות מפקד הפלישה על יפן אך בסוף הדבר לא יצא אל הפועל עקב כניעת יפן.&lt;/p&gt;
+&lt;p&gt;לאחר מלחמת העולם השנייה ווב חזר לוושינגטון ושימש כתת מזכיר האוצר בכהונתו השנייה של הנשיא טרומן הוא מונה למזכיר חוץ וכמנהל מדיניות החוץ האמריקאית.&lt;/p&gt;
+&lt;p&gt;ב 1961 ווב מונה להיות מנכ&quot;ל נאס&quot;א ע&quot;י קנדי. עד למינויו נאס&quot;א הייתה גוף שולי ואת רוב משימות החלל עשה חיל האוויר האמריקאי. ווב הרחיב את נאס&quot;א וגרם לה להיות הגוף המרכזי בתוכנית החלל האמריקאית. הוא דאג לכך שנאס&quot;א תוכל לקיים את הבטחת הנשיא קנדי בראשית שנות השישים- &quot;ארצות הברית תנחת על הירח עד סוף העשור&quot; הוא מיקד את NASA להתעסק בטיסות מאוישות כגון אפולו מרקורי וג&apos;מני. למרות האסון של אפולו 1 הוא המשיך לדחוף קדימה ובזכותו טיסת אפולו 11 נחתה על הירח באפריל 1969 ( הרקע לדחיפה זו היתה הנחה שהתאמתה לאחר נפילת בריה&quot;מ- שהרוסים מתכוונים להקדים את ארה&quot;ב בהגעת אדם לירח)&lt;/p&gt;
+&lt;p&gt;עקב תפקידו המשמעותי בנאס&quot;א אפשר להבין למה NASA החליטה לקרוא על שמו טלסקופ חלל.&lt;/p&gt;
+&lt;p&gt;טלסקופ החלל על שם ווב נועד להיות היורש של טלסקופ החלל המפורסם- האבל, אבל בניגוד לקודמו שעבד בכל אורכי הגל שאפשר לקלוט הטלסקופ הזה נועד לעבוד רק באורך גל אינפרה אדום. אורך גל אינפרה אדום הוא תדר בלתי נראה לעין בלתי מזויינת. תדר זה מאוד נוח לחקר קוסמולוגי ומאפשר להגדיל את טווח הטלסקופ. מעבר לבחירת התדר- על מנת להגדיל את הטווח יותר מתוכננת המראה הראשית שלו להיות בקוטר ענק של שישה מטרים. האמת היא שלא ניתן לשלוח דבר כזה גדול לחלל בצורה פרוסה. הפתרון שמתכנני הטלסקופ בחרו הוא לקפל את הטלסקופ ל- 18 מראות קטנות יותר בצורת משושה. שיפור נוסף התקבל על ידי ציפוי כל המראות בזהב כדי לקלוט את אורך גל של אינפרה אדום טוב יותר. הטלסקופ בנויה בצורה מאוד חכמה וקלה. על מנת להמחיש את גודלו הגדול ומשקלו הנמוך של הטלסקופ נוכל לדמות זאת בקירוב למחצית גודלו של מטוס בואינג 737 בעוד שמסתו מהווה רק כ־8% ממסתו של המטוס .&lt;/p&gt;
+&lt;p&gt;נקודת הצבתו של הטלסקופ בחלל היא נקודה L2. אתם בטח שואלים מה זו נקודה L2. נקודה L2 היא חלק מאוסף נקודות שנקראות נקודות לגראנז&apos;. נקודות לגראנז&apos; הן נקודות בין שני גופים בהן כוח המשיכה של שני הגופים מתקזז וגוף שנמצא בנקודה כזו ישאר במקומו יחסית לשני הגופים ללא השקעת אנרגיה. היתרון בהצבת הטלסקופ בנקודה כזו הוא שאין צורך בהפעלת אנרגיה כדי להשאירו במקומו. חלק מהאתגרים בשהייתו בנקודה זו הם תנאי הסביבה הקשים. על מנת שקרינת האינפרה אדום של השמש לא תיפגע בו תכננו ובנו לו מגן ענק שמגן עליו מקרינת השמש&lt;/p&gt;
+&lt;p&gt;‏בגלל כל החידושים שהזכרנו - טלסקופ החלל נקרא גם הדבר הבא שזהו דבר די מגניב במיוחד כשיש חלק במסע בין כוכבים שנקרא כך. בגלל החידושים הרבים בטלסקופ בניית הטלסקופ התעכבה בכ-20 שנה והעלות שלו צמחה לכ- 8.8 מיליארד דולר. בעקבות זה חשבו לבטל את הבנייה שלו ב-2010 אבל בסוף זה לא קרה. הטלסקופ תוכנן לשיגור מספר פעמים אך בכל פעם השיגור נדחה מסיבות אחרות האחרונה שבהם היא הקורונה. כרגע הצפי להיום הוא &amp;nbsp;31 באוקטובר 2021. אחרי העיכובים הרבים שציינו כבר נסגרה תוכנית השיגורים האמריקאית והטלסקופ ישוגר בעזרת השם על ידי משגר לוויינים אירופאי. מה עוד שהטלסקופ נעשה בשיתוף פעולה של נאס&quot;א וסוכנות החלל האירופאית.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;תודה מיוחדת לגל הירש שהקליט עבורנו &amp;nbsp;את פתיח הפרק&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;u&gt;&lt;strong&gt;מילות מפתח:&lt;/strong&gt;&lt;/u&gt;&lt;strong&gt; &lt;/strong&gt;גיימס ווב &amp;nbsp;ג&apos;יימס ווב &amp;nbsp;ג&apos;ימס ווב &amp;nbsp;ג&apos;ימס וב &amp;nbsp;גיימס וב &amp;nbsp;טלסקופ החלל &amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/10454710/10454710-1614587867309-6b88a4ad68d52.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#2 חיים ויצמן]]></title>
+			<description><![CDATA[<p>רועי והלל משוחחים על חיים ויצמן ומורשתו: מכון ויצמן, חידק ויצמן, תפקידיו השונים, ובאופן כללי- חייו.</p>
+<p><a href="https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%97%D7%99%D7%99%D7%9D-%D7%95%D7%99%D7%A6%D7%9E%D7%9F">לאתר: //bit.ly/3aomOE1</a></p>
+<p><a href="https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%97%D7%99%D7%99%D7%9D-%D7%95%D7%99%D7%A6%D7%9E%D7%9F">לקבוצת פיסבוק: //bit.ly/2Yz1Ufy</a></p>
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/2-epoapi</link>
+			<guid isPermaLink="false">054d5cb5-6df8-45a6-aa2b-da3be4481327</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Sun, 31 Jan 2021 21:53:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/26011890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-31%2F4cdb2c7a-b3cd-8c80-a942-d9756a59e435.mp3" length="50737025" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;רועי והלל משוחחים על חיים ויצמן ומורשתו: מכון ויצמן, חידק ויצמן, תפקידיו השונים, ובאופן כללי- חייו.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%97%D7%99%D7%99%D7%9D-%D7%95%D7%99%D7%A6%D7%9E%D7%9F&quot;&gt;לאתר: //bit.ly/3aomOE1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sites.google.com/view/alshemma/%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/%D7%97%D7%99%D7%99%D7%9D-%D7%95%D7%99%D7%A6%D7%9E%D7%9F&quot;&gt;לקבוצת פיסבוק: //bit.ly/2Yz1Ufy&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:39:59</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#1.5 מרים הייהודיה]]></title>
+			<description><![CDATA[החלטנו לעשות חודש פרק מלא- חודש פרק קצר. זהו הפרק הראשון בפורמט.          הפרק על מרים היהודיה ועל באן מארי או אמבט מרים בעברית.                                     לאתר: https://did.li/alshemma
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/1-5-eojbj5</link>
+			<guid isPermaLink="false">41bf618b-0597-492e-8269-24409dfbf73c</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Tue, 05 Jan 2021 19:55:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/24800293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-03-07%2F0a68d9468300f2ce2d74972390aedcb1.m4a" length="7735456" type="audio/x-m4a"/>
+			<itunes:summary>החלטנו לעשות חודש פרק מלא- חודש פרק קצר. זהו הפרק הראשון בפורמט.          הפרק על מרים היהודיה ועל באן מארי או אמבט מרים בעברית.                                     לאתר: https://did.li/alshemma
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:07:58</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/10454710/10454710-1609874422301-2bb0819a623e6.jpg"/>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[פרק 1- בלז פסקל חלק ב]]></title>
+			<description><![CDATA[רועי והלל משוחחים על בלייז פסקל ומורשתו: היחידה שקרויה על שמו, ההימור שלו, משולשו, משפטו וחוקו.  על כל גילויו ובין השאר, קרצו לשומעי "שעה היסטורית". לאתר: https://bit.ly/39K6wGL
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/1--eo453u</link>
+			<guid isPermaLink="false">alshemma.podbean.com/54622e94-ff0d-3c48-995d-a25c03f7c492</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Wed, 30 Dec 2020 06:31:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/24302142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-22%2F140144769-44100-2-8b0af7284c595ee5.mp3" length="46839596" type="audio/mpeg"/>
+			<itunes:summary>רועי והלל משוחחים על בלייז פסקל ומורשתו: היחידה שקרויה על שמו, ההימור שלו, משולשו, משפטו וחוקו.  על כל גילויו ובין השאר, קרצו לשומעי &quot;שעה היסטורית&quot;. לאתר: https://bit.ly/39K6wGL
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:41:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[פרק 1- בלז פסקל חלק א]]></title>
+			<description><![CDATA[לאתר: https://did.li/iQ1Hw
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/1--eo4540</link>
+			<guid isPermaLink="false">alshemma.podbean.com/1a34e144-498f-307e-ba3c-d7be1e5471c9</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Fri, 06 Nov 2020 10:17:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/24302144/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-22%2F140144777-44100-2-e6114f9bead818d8.mp3" length="43941480" type="audio/mpeg"/>
+			<itunes:summary>לאתר: https://did.li/iQ1Hw
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:37:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[להקדמה לעל שם מה]]></title>
+			<description><![CDATA[הפרק הנוכחי הוא הקדמה לסדרה והוא סוקר את נושא הפודקאסט "על שם מה"
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message]]></description>
+			<link>https://podcasters.spotify.com/pod/show/alshemma/episodes/ep-eo453r</link>
+			<guid isPermaLink="false">alshemma.podbean.com/44fb70a0-f158-3918-a08b-8a74b5c3d108</guid>
+			<dc:creator><![CDATA[רועי והלל]]></dc:creator>
+			<pubDate>Mon, 07 Sep 2020 19:36:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/3ee93598/podcast/play/24302139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-22%2F140144770-44100-2-6be785ae90b1d8cc.mp3" length="5257906" type="audio/mpeg"/>
+			<itunes:summary>הפרק הנוכחי הוא הקדמה לסדרה והוא סוקר את נושא הפודקאסט &quot;על שם מה&quot;
+
+--- 
+
+Send in a voice message: https://podcasters.spotify.com/pod/show/alshemma/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:15</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/10454710/10454710-1618153788651-d40b6c7a70765.jpg"/>
+		</item>
+	</channel>
 </rss>
