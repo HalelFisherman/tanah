@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your Podcast Title</title>
-    <link>http://www.yourpodcastwebsite.com</link>
-    <description>Your podcast description goes here.</description>
-    <language>en-us</language>
-    <itunes:author>Your Name</itunes:author>
-    <itunes:summary>A short summary of your podcast.</itunes:summary>
+    <title>לשמוע פרשה | קובץ שיעורים לפרשה מאת רבני ישיבת הר עציון</title>
+    <link>https://etzion.org.il</link>
+    <description>שידור חוזר של שיעורי עבר על פרשת השבוע מאת רבני הישיבה</description>
+    <language>he</language>
+    <itunes:author>ישיבת הר עציון</itunes:author>
+    <itunes:summary>שידור חוזר של שיעורי עבר על פרשת השבוע מאת רבני הישיבה</itunes:summary>
     <itunes:owner>
-      <itunes:name>Your Name</itunes:name>
-      <itunes:email>your.email@example.com</itunes:email>
+      <itunes:name>ישיבת הר עציון</itunes:name>
+      <itunes:email>newmedia.haretzion@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/15128812/15128812-1655305835335-a11337aae3f11.jpg" />
-    <itunes:category text="Technology">
-      <itunes:category text="Podcasting" />
+    <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg" />
+    <itunes:category text="Education">
+      <itunes:category text="Religion & Spirituality" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <atom:link href="https://raw.githubusercontent.com/HalelFisherman/tanah/main/tanah" rel="self" type="application/rss+xml" />
