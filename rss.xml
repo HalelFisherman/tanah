@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>לשמוע פרשה | קובץ שיעורים לפרשה מאת רבני ישיבת הר עציון</title>
+    <title>קש"ת - שיעורים בספר שמות</title>
     <link>https://etzion.org.il</link>
-    <description>שידור חוזר של שיעורי עבר על פרשת השבוע מאת רבני הישיבה</description>
+    <description>הסדרה מבארת את ארבעת הפרקים הראשונים בספר שמות ודן במשמעויות העמוקות הנגזרות מהם</description>
     <language>he</language>
     <itunes:author>ישיבת הר עציון</itunes:author>
-    <itunes:summary>שידור חוזר של שיעורי עבר על פרשת השבוע מאת רבני הישיבה</itunes:summary>
+    <itunes:summary>הסדרה מבארת את ארבעת הפרקים הראשונים בספר שמות ודן במשמעויות העמוקות הנגזרות מהם</itunes:summary>
     <itunes:owner>
       <itunes:name>ישיבת הר עציון</itunes:name>
       <itunes:email>newmedia.haretzion@gmail.com</itunes:email>
@@ -20,14 +19,119 @@
 
     <!-- Add individual episode items below -->
     <item>
-      <title>Episode 1: Title of Your First Episode</title>
-      <description>Description of your first episode.</description>
-      <pubDate>Sun, 01 Jan 2023 12:00:00 GMT</pubDate>
-      <enclosure url="https://anchor.fm/s/5ac552b0/podcast/play/67104106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-22%2Fd8778210-59be-bb9e-66a5-b4331da388bd.mp3" length="123456789" type="audio/mpeg" />
+      <title>שמות | פרק ד' | שלושת האותות | הרב יעקב מדן</title>
+      <description>מה מטרת האותות שניתנו למשה? מחלוקת רש"י ורמב"ן והרחבת שיטת הרמב"ן</description>
+      <pubDate>January 01 2024 15:47:55</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_11_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
       <guid isPermaLink="false">unique-episode-id-1</guid>
-      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:duration>00:25:24</itunes:duration>
+    </item>
+	
+	
+    <item>
+      <title>שמות | פרק ד' | שליחותו של משה ופרשת המילה | הרב יעקב מדן</title>
+      <description>"לך שוב מצרים" - מדוע צריך לשלוח את משה למצרים פעם נוספת, ומה עניינה של פרשת המילה?</description>
+      <pubDate>January 01 2024 15:47:41</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_12_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:37:18</itunes:duration>
     </item>
 
+
+
+    <item>
+      <title>שמות פרק ג' | שם ה' | 2 | הרב יעקב מדן</title>
+      <description>אפשרויות נוספות להסבר שמו של ה'. מהי מטרת ההליכה שלושה ימים לזבוח לה'?</description>
+      <pubDate>January 01 2024 15:47:39</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_10_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:28:21</itunes:duration>
+    </item>
+
+
+    <item>
+      <title>שמות פרק ג' | שם ה' | 1 | הרב יעקב מדן</title>
+      <description>"ואמרו לי מה שמו מה אומר אליהם?" - השיעור סוקר מספר תשובות לשאלה זו, ועוסק בשאלת הכלים</description>
+      <pubDate>January 01 2024 15:47:49</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_09_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:24:02</itunes:duration>
+    </item>
+	
+    <item>
+      <title>שמות | פרק ג' | מינוי משה לשליח | הרב יעקב מדן</title>
+      <description>כבר כעת לא היה משה צריך להכניס את עם ישראל לארץ ישראל</description>
+      <pubDate>January 01 2024 15:47:32</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_08_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:25:43</itunes:duration>
+    </item>
+	
+    <item>
+      <title>שמות | פרק ג' | משמעות הסנה הבוער | הרב יעקב מדן</title>
+      <description>משמעות המראה של הסנה הבוער והקשר שבין מעמד הסנה ובין מעמד הר סיני</description>
+      <pubDate>January 01 2024 15:47:53</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_07_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:24:02</itunes:duration>
+    </item>
+
+
+    <item>
+      <title>שמות פרק ב' | זעקת בני ישראל | הרב יעקב מדן</title>
+      <description>"ויאנחו בני ישראל מן העבודה ויזעקו" - מדוע זעקו בני ישראל ומדוע דווקא כעת?</description>
+      <pubDate>January 01 2024 15:47:37</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_06_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:23:21</itunes:duration>
+    </item>
+	
+    <item>
+      <title>שמות | פרק ב' | הולדת משה ומעשיו הראשונים | הרב יעקב מדן</title>
+      <description>"טוב שם משמן טוב" - שמו של משה ומעשיו הראשונים כנגד האלימות שמסביבו</description>
+      <pubDate>January 01 2024 15:47:47</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_05_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:26:17</itunes:duration>
+    </item>
+
+    <item>
+      <title>שמות | פרק א' | מעשה המיילדות | הרב יעקב מדן</title>
+      <description>"בשכר נשים צדקניות" - הנשים הן שהחלו את מעשה הגאולה: המיילדות, בת פרעה וציפורה</description>
+      <pubDate>January 01 2024 15:47:34</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_04_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:23:01</itunes:duration>
+    </item>
+	
+	
+    <item>
+      <title>שמות | פרק א' | שורשי האנטישמיות במצרים ומהלך השעבוד | הרב יעקב מדן</title>
+      <description>המניע של מצרים לשעבד את עם ישראל וכמה גורמים לשורשי האנטישמיות במצרים</description>
+      <pubDate>January 01 2024 15:47:45</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_03_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:27:46</itunes:duration>
+    </item>
+	
+	<item>
+      <title>מבוא לשעבוד מצרים: על מה ולמה? | 2 | הרב יעקב מדן</title>
+      <description>"מה חורי האף הגדול הזה?": תשובה על פי חוקי ההיסטוריה - הידמות לגויים והתבוללות</description>
+      <pubDate>January 01 2024 15:47:51</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_02_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:26:38</itunes:duration>
+    </item>
+
+    <item>
+      <title>מבוא לשעבוד מצרים: על מה ולמה? | 1 | הרב יעקב מדן</title>
+      <description>"מה חורי האף הגדול הזה?": התשובות ניתנות על פי תורת הגמול ועל פי הנהגות נוספות של ה' בעולם</description>
+      <pubDate>January 01 2024 15:47:43</pubDate> 
+      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_01_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
+      <guid isPermaLink="false">unique-episode-id-1</guid>
+      <itunes:duration>00:30:51</itunes:duration>
+    </item>
+	
     <!-- Add more episode items as needed -->
     
   </channel>
