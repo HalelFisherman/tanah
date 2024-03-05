@@ -1,42 +1,19 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
 <title>פניני הלכה - שבת </title>
-<atom:link href="https://raw.githubusercontent.com/HalelFisherman/tanah/main/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://files.yehudae.net/ph/rss.xml" rel="self" type="application/rss+xml"/>
 <link>https://ph.yhb.org.il/</link>
-<description> הקלטות של ספרי "פניני הלכה", ספריו הבהירים של הרב אליעזר מלמד שליט"א.
-
-סדרה ייחודית ומקיפה של ספרי הלכה מאת הרב אליעזר מלמד שליט”א, ראש הישיבה ורב הישוב הר ברכה. מסורת הפסיקה ההלכתית מוגשת ברוח ארצישראלית רעננה. הספרים כתובים בלשון בהירה ועדכנית, מאירים את ההלכות בטעמן הרוחני, ומתייחסים למנהגי העדות השונות.
-
-ההלכות מבוארות מן הכללים אל הפרטים ובדגש על סוגיות אקטואליות שהתחדשו בעת האחרונה.
-
-ספרי “פניני הלכה” התקבלו באהבה בציבור, נלמדים באלפי בתים, ישיבות ומוסדות חינוך בישראל, ומתורגמים למספר שפות.
-
-ההקלטה ע"י הרב יונדב זר,
-
-הועלה ע"י איתן גולדשמידט
- </description>
+<description> הקלטות של ספרי "פניני הלכה", ספריו הבהירים של הרב אליעזר מלמד שליט"א. סדרה ייחודית ומקיפה של ספרי הלכה מאת הרב אליעזר מלמד שליט”א, ראש הישיבה ורב הישוב הר ברכה. מסורת הפסיקה ההלכתית מוגשת ברוח ארצישראלית רעננה. הספרים כתובים בלשון בהירה ועדכנית, מאירים את ההלכות בטעמן הרוחני, ומתייחסים למנהגי העדות השונות. ההלכות מבוארות מן הכללים אל הפרטים ובדגש על סוגיות אקטואליות שהתחדשו בעת האחרונה. ספרי “פניני הלכה” התקבלו באהבה בציבור, נלמדים באלפי בתים, ישיבות ומוסדות חינוך בישראל, ומתורגמים למספר שפות. ההקלטה ע"י הרב יונדב זר, הועלה ע"י איתן גולדשמידט </description>
 <pubDate>Tue, 29 Sep 2020 05:16:18 -0300</pubDate>
 <language>he</language>
 <copyright>Copyright 2020 All rights reserved.</copyright>
-
-<itunes:category text="Religion &amp; Spirituality">
-<itunes:category text="Judaism" />
+<itunes:category text="Religion & Spirituality">
+<itunes:category text="Judaism"/>
 </itunes:category>
 <email>eitntt@gmail.com</email>
-
 <ttl>1440</ttl>
-<itunes:subtitle />
-<itunes:summary>הקלטות של ספרי "פניני הלכה", ספריו הבהירים של הרב אליעזר מלמד שליט"א.
-
-סדרה ייחודית ומקיפה של ספרי הלכה מאת הרב אליעזר מלמד שליט”א, ראש הישיבה ורב הישוב הר ברכה. מסורת הפסיקה ההלכתית מוגשת ברוח ארצישראלית רעננה. הספרים כתובים בלשון בהירה ועדכנית, מאירים את ההלכות בטעמן הרוחני, ומתייחסים למנהגי העדות השונות.
-
-ההלכות מבוארות מן הכללים אל הפרטים ובדגש על סוגיות אקטואליות שהתחדשו בעת האחרונה.
-
-ספרי “פניני הלכה” התקבלו באהבה בציבור, נלמדים באלפי בתים, ישיבות ומוסדות חינוך בישראל, ומתורגמים למספר שפות.
-
-ההקלטה ע"י הרב יונדב זר,
-
-הועלה ע"י איתן גולדשמידט</itunes:summary>
+<itunes:subtitle/>
+<itunes:summary>הקלטות של ספרי "פניני הלכה", ספריו הבהירים של הרב אליעזר מלמד שליט"א. סדרה ייחודית ומקיפה של ספרי הלכה מאת הרב אליעזר מלמד שליט”א, ראש הישיבה ורב הישוב הר ברכה. מסורת הפסיקה ההלכתית מוגשת ברוח ארצישראלית רעננה. הספרים כתובים בלשון בהירה ועדכנית, מאירים את ההלכות בטעמן הרוחני, ומתייחסים למנהגי העדות השונות. ההלכות מבוארות מן הכללים אל הפרטים ובדגש על סוגיות אקטואליות שהתחדשו בעת האחרונה. ספרי “פניני הלכה” התקבלו באהבה בציבור, נלמדים באלפי בתים, ישיבות ומוסדות חינוך בישראל, ומתורגמים למספר שפות. ההקלטה ע"י הרב יונדב זר, הועלה ע"י איתן גולדשמידט</itunes:summary>
 <itunes:author>ישיבת הר ברכה</itunes:author>
 <itunes:owner>
 <itunes:name>ישיבת הר ברכה</itunes:name>
@@ -44,8 +21,8 @@
 </itunes:owner>
 <itunes:block>No</itunes:block>
 <itunes:explicit>no</itunes:explicit>
-<itunes:category text="Judaism" />
-<itunes:image href="https://i1.sndcdn.com/avatars-000489897186-2vp2ud-original.jpg" />
+<itunes:category text="Judaism"/>
+<itunes:image href="https://i1.sndcdn.com/avatars-000489897186-2vp2ud-original.jpg"/>
 <image>
 <url>https://i1.sndcdn.com/avatars-000489897186-2vp2ud-original.jpg</url>
 <title>פניני הלכה - שבת </title>
@@ -53,7 +30,6 @@
 <width>500</width>
 <height>500</height>
 </image>
-<!-- episode id 6 -->
 <item>
     <title>וארא | ריצה לדבר מצוה? | הרב ישי יסלזון</title>
     <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
@@ -79,143 +55,5 @@
         <media:title type="html">וארא | ריצה לדבר מצוה? | הרב ישי יסלזון</media:title>
     </media:content>
 </item>
-
-<!-- episode id 5 -->
-<item>
-    <title>וארא | ארבע לשונות הגאולה | הרב ברוך גיגי</title>
-    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
-    <itunes:title>וארא | ארבע לשונות הגאולה | הרב ברוך גיגי</itunes:title>
-    <itunes:summary>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>יישום ארבע לשונות הגאולה בסיפור יציאת מצרים והקשר שלהן לארבע כוסות</h1> ]]>
-    </itunes:summary>
-    <description>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>יישום ארבע לשונות הגאולה בסיפור יציאת מצרים והקשר שלהן לארבע כוסות</h1> ]]>
-    </description>
-    <enclosure url="https://vbmaudio.s3.eu-central-1.amazonaws.com/5775/מחשבה%20ומוסר/משך%20חכמה%20על%20התורה/מחשבה%20ומוסר-משך%20חכמה%20על%20התורה-4-הרבג-ארבע%20לשונות%20גאולה.mp3" length="21561453" type="audio/mpeg"/>
-    <itunes:season>1</itunes:season>
-    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
-    <itunes:episode></itunes:episode>
-    <itunes:subtitle/>
-    <itunes:summary/>
-    <itunes:author>ישיבת הר עציון</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:block>No</itunes:block>
-    <itunes:duration>00:28:29</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <media:content url="" medium="image">
-        <media:title type="html">וארא | ארבע לשונות הגאולה | הרב ברוך גיגי</media:title>
-    </media:content>
-</item>
-
-<!-- episode id 4 -->
-<item>
-    <title>וארא | ארבע לשונות גאולה | הרב שלמה ברין</title>
-    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
-    <itunes:title>וארא | ארבע לשונות גאולה | הרב שלמה ברין</itunes:title>
-    <itunes:summary>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>אין שום סתירה בין שלטון מדיני לבין מלכות שמיים</h1> ]]>
-    </itunes:summary>
-    <description>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>אין שום סתירה בין שלטון מדיני לבין מלכות שמיים</h1> ]]>
-    </description>
-    <enclosure url="http://media.libsyn.com/media/torah/meshech_brin_5769-12vaera.mp3" length="21561453" type="audio/mpeg"/>
-    <itunes:season>1</itunes:season>
-    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
-    <itunes:episode></itunes:episode>
-    <itunes:subtitle/>
-    <itunes:summary/>
-    <itunes:author>ישיבת הר עציון</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:block>No</itunes:block>
-    <itunes:duration>00:37:28</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <media:content url="" medium="image">
-        <media:title type="html">וארא | ארבע לשונות גאולה | הרב שלמה ברין</media:title>
-    </media:content>
-</item>
-
-<!-- episode id 3 -->
-<item>
-    <title>וארא | ארבע כוסות | הרב יאיר קאהן</title>
-    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
-    <itunes:title>וארא | ארבע כוסות | הרב יאיר קאהן</itunes:title>
-    <itunes:summary>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>כלל ידוע הוא שאדם לא ישתמש בכל כספו בעבור מצווה. מדוע הדין אחר בארבע כוסות?</h1> ]]>
-    </itunes:summary>
-    <description>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>כלל ידוע הוא שאדם לא ישתמש בכל כספו בעבור מצווה. מדוע הדין אחר בארבע כוסות?</h1> ]]>
-    </description>
-    <enclosure url="http://traffic.libsyn.com/torah/14vaera_mitzva_5775_ykahn.mp3" length="21561453" type="audio/mpeg"/>
-    <itunes:season>1</itunes:season>
-    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
-    <itunes:episode></itunes:episode>
-    <itunes:subtitle/>
-    <itunes:summary/>
-    <itunes:author>ישיבת הר עציון</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:block>No</itunes:block>
-    <itunes:duration>00:32:58</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <media:content url="" medium="image">
-        <media:title type="html">וארא | ארבע כוסות | הרב יאיר קאהן</media:title>
-    </media:content>
-</item>
-
-<!-- episode id 2 -->
-<item>
-    <title>השליחות הטבעית והשליחות הגאולית | הרב רמי ינאי</title>
-    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
-    <itunes:title>השליחות הטבעית והשליחות הגאולית | הרב רמי ינאי</itunes:title>
-    <itunes:summary>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>מדוע הקב"ה מצווה על משה שנית את מה שהוא כבר ציווה עליו בסנה?</h1> ]]>
-    </itunes:summary>
-    <description>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>מדוע הקב"ה מצווה על משה שנית את מה שהוא כבר ציווה עליו בסנה?</h1> ]]>
-    </description>
-    <enclosure url="http://media.libsyn.com/media/torah/parsha-14_vaera_5767_ryanai.mp3" length="21561453" type="audio/mpeg"/>
-    <itunes:season>1</itunes:season>
-    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
-    <itunes:episode></itunes:episode>
-    <itunes:subtitle/>
-    <itunes:summary/>
-    <itunes:author>ישיבת הר עציון</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:block>No</itunes:block>
-    <itunes:duration>00:30:13</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <media:content url="" medium="image">
-        <media:title type="html">השליחות הטבעית והשליחות הגאולית | הרב רמי ינאי</media:title>
-    </media:content>
-</item>
-
-<!-- episode id 1 -->
-<item>
-    <title>שאלות מוסריות ביציאת מצרים | הרב זאב וייטמן</title>
-    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
-    <itunes:title>שאלות מוסריות ביציאת מצרים | הרב זאב וייטמן</itunes:title>
-    <itunes:summary>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>מדוע הקשה ה' את לב פרעה? מדוע הורה למשה לרמות את פרעה? מדוע ביקש לשאול מהמצרים כליהם?</h1> ]]>
-    </itunes:summary>
-    <description>
-        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>מדוע הקשה ה' את לב פרעה? מדוע הורה למשה לרמות את פרעה? מדוע ביקש לשאול מהמצרים כליהם?</h1> ]]>
-    </description>
-    <enclosure url="http://traffic.libsyn.com/torah/parsha-12_vaera_5772_rzveitman.mp3" length="21561453" type="audio/mpeg"/>
-    <itunes:season>1</itunes:season>
-    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
-    <itunes:episode></itunes:episode>
-    <itunes:subtitle/>
-    <itunes:summary/>
-    <itunes:author>ישיבת הר עציון</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:block>No</itunes:block>
-    <itunes:duration>00:31:39</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <media:content url="" medium="image">
-        <media:title type="html">שאלות מוסריות ביציאת מצרים | הרב זאב וייטמן</media:title>
-    </media:content>
-</item>
-
-<!-- episode id 0 -->
-
 </channel>
 </rss>
