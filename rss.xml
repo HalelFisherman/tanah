@@ -1,138 +1,235 @@
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>קש"ת - שיעורים בספר שמות</title>
-    <link>https://etzion.org.il</link>
-    <description>הסדרה מבארת את ארבעת הפרקים הראשונים בספר שמות ודן במשמעויות העמוקות הנגזרות מהם</description>
-    <language>he</language>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>פניני הלכה - שבת </title>
+<atom:link href="https://files.yehudae.net/ph/rss.xml" rel="self" type="application/rss+xml" />
+<link>https://ph.yhb.org.il/</link>
+<description> הקלטות של ספרי "פניני הלכה", ספריו הבהירים של הרב אליעזר מלמד שליט"א.
+
+סדרה ייחודית ומקיפה של ספרי הלכה מאת הרב אליעזר מלמד שליט”א, ראש הישיבה ורב הישוב הר ברכה. מסורת הפסיקה ההלכתית מוגשת ברוח ארצישראלית רעננה. הספרים כתובים בלשון בהירה ועדכנית, מאירים את ההלכות בטעמן הרוחני, ומתייחסים למנהגי העדות השונות.
+
+ההלכות מבוארות מן הכללים אל הפרטים ובדגש על סוגיות אקטואליות שהתחדשו בעת האחרונה.
+
+ספרי “פניני הלכה” התקבלו באהבה בציבור, נלמדים באלפי בתים, ישיבות ומוסדות חינוך בישראל, ומתורגמים למספר שפות.
+
+ההקלטה ע"י הרב יונדב זר,
+
+הועלה ע"י איתן גולדשמידט
+ </description>
+<pubDate>Tue, 29 Sep 2020 05:16:18 -0300</pubDate>
+<language>he</language>
+<copyright>Copyright 2020 All rights reserved.</copyright>
+
+<itunes:category text="Religion &amp; Spirituality">
+<itunes:category text="Judaism" />
+</itunes:category>
+<email>eitntt@gmail.com</email>
+
+<ttl>1440</ttl>
+<itunes:subtitle />
+<itunes:summary>הקלטות של ספרי "פניני הלכה", ספריו הבהירים של הרב אליעזר מלמד שליט"א.
+
+סדרה ייחודית ומקיפה של ספרי הלכה מאת הרב אליעזר מלמד שליט”א, ראש הישיבה ורב הישוב הר ברכה. מסורת הפסיקה ההלכתית מוגשת ברוח ארצישראלית רעננה. הספרים כתובים בלשון בהירה ועדכנית, מאירים את ההלכות בטעמן הרוחני, ומתייחסים למנהגי העדות השונות.
+
+ההלכות מבוארות מן הכללים אל הפרטים ובדגש על סוגיות אקטואליות שהתחדשו בעת האחרונה.
+
+ספרי “פניני הלכה” התקבלו באהבה בציבור, נלמדים באלפי בתים, ישיבות ומוסדות חינוך בישראל, ומתורגמים למספר שפות.
+
+ההקלטה ע"י הרב יונדב זר,
+
+הועלה ע"י איתן גולדשמידט</itunes:summary>
+<itunes:author>ישיבת הר ברכה</itunes:author>
+<itunes:owner>
+<itunes:name>ישיבת הר ברכה</itunes:name>
+<itunes:email>eitntt@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:block>No</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:category text="Judaism" />
+<itunes:image href="https://i1.sndcdn.com/avatars-000489897186-2vp2ud-original.jpg" />
+<image>
+<url>https://i1.sndcdn.com/avatars-000489897186-2vp2ud-original.jpg</url>
+<title>פניני הלכה - שבת </title>
+<link>http://ph.yhb.org.il/</link>
+<width>500</width>
+<height>500</height>
+</image>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- episode id 6 -->
+<item>
+    <title>וארא | ריצה לדבר מצוה? | הרב ישי יסלזון</title>
+    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
+    <itunes:title>וארא | ריצה לדבר מצוה? | הרב ישי יסלזון</itunes:title>
+    <itunes:summary>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>פרעה עושה את רצון ה'. מדוע הוא זוכה לעונשים כה חמורים?</h1> ]]>
+    </itunes:summary>
+    <description>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>פרעה עושה את רצון ה'. מדוע הוא זוכה לעונשים כה חמורים?</h1> ]]>
+    </description>
+    <enclosure url="http://traffic.libsyn.com/torah/63nosim_hilchatiyim_beparshat_hashavua_vaera5780-yjeselson.mp3" length="21561453" type="audio/mpeg"/>
+    <itunes:season>1</itunes:season>
+    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
+    <itunes:episode></itunes:episode>
+    <itunes:subtitle/>
+    <itunes:summary/>
     <itunes:author>ישיבת הר עציון</itunes:author>
-    <itunes:summary>הסדרה מבארת את ארבעת הפרקים הראשונים בספר שמות ודן במשמעויות העמוקות הנגזרות מהם</itunes:summary>
-    <itunes:owner>
-      <itunes:name>ישיבת הר עציון</itunes:name>
-      <itunes:email>newmedia.haretzion@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://s3.castbox.fm/72/03/b9/5ef4084655a4ef2754bf6a27d4.jpg" />
-    <itunes:category text="Education">
-      <itunes:category text="Education" />
-    </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-    <atom:link href="https://raw.githubusercontent.com/HalelFisherman/tanah/main/rss.xml" rel="self" type="application/rss+xml" />
+    <itunes:block>No</itunes:block>
+    <itunes:duration>00:31:01</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <media:content url="" medium="image">
+        <media:title type="html">וארא | ריצה לדבר מצוה? | הרב ישי יסלזון</media:title>
+    </media:content>
+</item>
 
-    <!-- Add individual episode items below -->
-    <item>
-      <title>שמות | פרק ד' | שלושת האותות | הרב יעקב מדן</title>
-      <description>מה מטרת האותות שניתנו למשה? מחלוקת רש"י ורמב"ן והרחבת שיטת הרמב"ן</description>
-      <pubDate>January 01 2024 15:47:55</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_11_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-12</guid>
-      <itunes:duration>00:25:24</itunes:duration>
-    </item>
-	
-	
-    <item>
-      <title>שמות | פרק ד' | שליחותו של משה ופרשת המילה | הרב יעקב מדן</title>
-      <description>"לך שוב מצרים" - מדוע צריך לשלוח את משה למצרים פעם נוספת, ומה עניינה של פרשת המילה?</description>
-      <pubDate>January 01 2024 15:47:41</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_12_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-11</guid>
-      <itunes:duration>00:37:18</itunes:duration>
-    </item>
+<!-- episode id 5 -->
+<item>
+    <title>וארא | ארבע לשונות הגאולה | הרב ברוך גיגי</title>
+    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
+    <itunes:title>וארא | ארבע לשונות הגאולה | הרב ברוך גיגי</itunes:title>
+    <itunes:summary>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>יישום ארבע לשונות הגאולה בסיפור יציאת מצרים והקשר שלהן לארבע כוסות</h1> ]]>
+    </itunes:summary>
+    <description>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>יישום ארבע לשונות הגאולה בסיפור יציאת מצרים והקשר שלהן לארבע כוסות</h1> ]]>
+    </description>
+    <enclosure url="https://vbmaudio.s3.eu-central-1.amazonaws.com/5775/מחשבה%20ומוסר/משך%20חכמה%20על%20התורה/מחשבה%20ומוסר-משך%20חכמה%20על%20התורה-4-הרבג-ארבע%20לשונות%20גאולה.mp3" length="21561453" type="audio/mpeg"/>
+    <itunes:season>1</itunes:season>
+    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
+    <itunes:episode></itunes:episode>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:author>ישיבת הר עציון</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <itunes:duration>00:28:29</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <media:content url="" medium="image">
+        <media:title type="html">וארא | ארבע לשונות הגאולה | הרב ברוך גיגי</media:title>
+    </media:content>
+</item>
 
+<!-- episode id 4 -->
+<item>
+    <title>וארא | ארבע לשונות גאולה | הרב שלמה ברין</title>
+    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
+    <itunes:title>וארא | ארבע לשונות גאולה | הרב שלמה ברין</itunes:title>
+    <itunes:summary>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>אין שום סתירה בין שלטון מדיני לבין מלכות שמיים</h1> ]]>
+    </itunes:summary>
+    <description>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>אין שום סתירה בין שלטון מדיני לבין מלכות שמיים</h1> ]]>
+    </description>
+    <enclosure url="http://media.libsyn.com/media/torah/meshech_brin_5769-12vaera.mp3" length="21561453" type="audio/mpeg"/>
+    <itunes:season>1</itunes:season>
+    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
+    <itunes:episode></itunes:episode>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:author>ישיבת הר עציון</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <itunes:duration>00:37:28</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <media:content url="" medium="image">
+        <media:title type="html">וארא | ארבע לשונות גאולה | הרב שלמה ברין</media:title>
+    </media:content>
+</item>
 
+<!-- episode id 3 -->
+<item>
+    <title>וארא | ארבע כוסות | הרב יאיר קאהן</title>
+    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
+    <itunes:title>וארא | ארבע כוסות | הרב יאיר קאהן</itunes:title>
+    <itunes:summary>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>כלל ידוע הוא שאדם לא ישתמש בכל כספו בעבור מצווה. מדוע הדין אחר בארבע כוסות?</h1> ]]>
+    </itunes:summary>
+    <description>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>כלל ידוע הוא שאדם לא ישתמש בכל כספו בעבור מצווה. מדוע הדין אחר בארבע כוסות?</h1> ]]>
+    </description>
+    <enclosure url="http://traffic.libsyn.com/torah/14vaera_mitzva_5775_ykahn.mp3" length="21561453" type="audio/mpeg"/>
+    <itunes:season>1</itunes:season>
+    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
+    <itunes:episode></itunes:episode>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:author>ישיבת הר עציון</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <itunes:duration>00:32:58</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <media:content url="" medium="image">
+        <media:title type="html">וארא | ארבע כוסות | הרב יאיר קאהן</media:title>
+    </media:content>
+</item>
 
-    <item>
-      <title>שמות פרק ג' | שם ה' | 2 | הרב יעקב מדן</title>
-      <description>אפשרויות נוספות להסבר שמו של ה'. מהי מטרת ההליכה שלושה ימים לזבוח לה'?</description>
-      <pubDate>January 01 2024 15:47:39</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_10_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-10</guid>
-      <itunes:duration>00:28:21</itunes:duration>
-    </item>
+<!-- episode id 2 -->
+<item>
+    <title>השליחות הטבעית והשליחות הגאולית | הרב רמי ינאי</title>
+    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
+    <itunes:title>השליחות הטבעית והשליחות הגאולית | הרב רמי ינאי</itunes:title>
+    <itunes:summary>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>מדוע הקב"ה מצווה על משה שנית את מה שהוא כבר ציווה עליו בסנה?</h1> ]]>
+    </itunes:summary>
+    <description>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>מדוע הקב"ה מצווה על משה שנית את מה שהוא כבר ציווה עליו בסנה?</h1> ]]>
+    </description>
+    <enclosure url="http://media.libsyn.com/media/torah/parsha-14_vaera_5767_ryanai.mp3" length="21561453" type="audio/mpeg"/>
+    <itunes:season>1</itunes:season>
+    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
+    <itunes:episode></itunes:episode>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:author>ישיבת הר עציון</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <itunes:duration>00:30:13</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <media:content url="" medium="image">
+        <media:title type="html">השליחות הטבעית והשליחות הגאולית | הרב רמי ינאי</media:title>
+    </media:content>
+</item>
 
+<!-- episode id 1 -->
+<item>
+    <title>שאלות מוסריות ביציאת מצרים | הרב זאב וייטמן</title>
+    <pubDate>Tue, 05 Mar 2024 00:00:00  +0000</pubDate>
+    <itunes:title>שאלות מוסריות ביציאת מצרים | הרב זאב וייטמן</itunes:title>
+    <itunes:summary>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>מדוע הקשה ה' את לב פרעה? מדוע הורה למשה לרמות את פרעה? מדוע ביקש לשאול מהמצרים כליהם?</h1> ]]>
+    </itunes:summary>
+    <description>
+        <![CDATA[ <div dir="rtl" style="font-family:Heebo;"> <h1>מדוע הקשה ה' את לב פרעה? מדוע הורה למשה לרמות את פרעה? מדוע ביקש לשאול מהמצרים כליהם?</h1> ]]>
+    </description>
+    <enclosure url="http://traffic.libsyn.com/torah/parsha-12_vaera_5772_rzveitman.mp3" length="21561453" type="audio/mpeg"/>
+    <itunes:season>1</itunes:season>
+    <guid isPermaLink="false">https://ph.yhb.org.il/mp3/01-01.mp3/4d5370ce-a61d-42e0-af51-a76c424e3639</guid>
+    <itunes:episode></itunes:episode>
+    <itunes:subtitle/>
+    <itunes:summary/>
+    <itunes:author>ישיבת הר עציון</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>No</itunes:block>
+    <itunes:duration>00:31:39</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <media:content url="" medium="image">
+        <media:title type="html">שאלות מוסריות ביציאת מצרים | הרב זאב וייטמן</media:title>
+    </media:content>
+</item>
 
-    <item>
-      <title>שמות פרק ג' | שם ה' | 1 | הרב יעקב מדן</title>
-      <description>"ואמרו לי מה שמו מה אומר אליהם?" - השיעור סוקר מספר תשובות לשאלה זו, ועוסק בשאלת הכלים</description>
-      <pubDate>January 01 2024 15:47:49</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_09_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-9</guid>
-      <itunes:duration>00:24:02</itunes:duration>
-    </item>
-	
-    <item>
-      <title>שמות | פרק ג' | מינוי משה לשליח | הרב יעקב מדן</title>
-      <description>כבר כעת לא היה משה צריך להכניס את עם ישראל לארץ ישראל</description>
-      <pubDate>January 01 2024 15:47:32</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_08_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-8</guid>
-      <itunes:duration>00:25:43</itunes:duration>
-    </item>
-	
-    <item>
-      <title>שמות | פרק ג' | משמעות הסנה הבוער | הרב יעקב מדן</title>
-      <description>משמעות המראה של הסנה הבוער והקשר שבין מעמד הסנה ובין מעמד הר סיני</description>
-      <pubDate>January 01 2024 15:47:53</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_07_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-7</guid>
-      <itunes:duration>00:24:02</itunes:duration>
-    </item>
+<!-- episode id 0 -->
 
-
-    <item>
-      <title>שמות פרק ב' | זעקת בני ישראל | הרב יעקב מדן</title>
-      <description>"ויאנחו בני ישראל מן העבודה ויזעקו" - מדוע זעקו בני ישראל ומדוע דווקא כעת?</description>
-      <pubDate>January 01 2024 15:47:37</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_06_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-6</guid>
-      <itunes:duration>00:23:21</itunes:duration>
-    </item>
-	
-    <item>
-      <title>שמות | פרק ב' | הולדת משה ומעשיו הראשונים | הרב יעקב מדן</title>
-      <description>"טוב שם משמן טוב" - שמו של משה ומעשיו הראשונים כנגד האלימות שמסביבו</description>
-      <pubDate>January 01 2024 15:47:47</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_05_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-5</guid>
-      <itunes:duration>00:26:17</itunes:duration>
-    </item>
-
-    <item>
-      <title>שמות | פרק א' | מעשה המיילדות | הרב יעקב מדן</title>
-      <description>"בשכר נשים צדקניות" - הנשים הן שהחלו את מעשה הגאולה: המיילדות, בת פרעה וציפורה</description>
-      <pubDate>January 01 2024 15:47:34</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_04_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-4</guid>
-      <itunes:duration>00:23:01</itunes:duration>
-    </item>
-	
-	
-    <item>
-      <title>שמות | פרק א' | שורשי האנטישמיות במצרים ומהלך השעבוד | הרב יעקב מדן</title>
-      <description>המניע של מצרים לשעבד את עם ישראל וכמה גורמים לשורשי האנטישמיות במצרים</description>
-      <pubDate>January 01 2024 15:47:45</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_03_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-3</guid>
-      <itunes:duration>00:27:46</itunes:duration>
-    </item>
-	
-	<item>
-      <title>מבוא לשעבוד מצרים: על מה ולמה? | 2 | הרב יעקב מדן</title>
-      <description>"מה חורי האף הגדול הזה?": תשובה על פי חוקי ההיסטוריה - הידמות לגויים והתבוללות</description>
-      <pubDate>January 01 2024 15:47:51</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_02_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-2</guid>
-      <itunes:duration>00:26:38</itunes:duration>
-    </item>
-
-    <item>
-      <title>מבוא לשעבוד מצרים: על מה ולמה? | 1 | הרב יעקב מדן</title>
-      <description>"מה חורי האף הגדול הזה?": התשובות ניתנות על פי תורת הגמול ועל פי הנהגות נוספות של ה' בעולם</description>
-      <pubDate>January 01 2024 15:47:43</pubDate> 
-      <enclosure url="http://traffic.libsyn.com/torah/sefer_shemot_01_5774_Medan.mp3" length="123456789" type="audio/mpeg" />
-      <guid isPermaLink="false">unique-episode-id-1</guid>
-      <itunes:duration>00:30:51</itunes:duration>
-    </item>
-	
-    <!-- Add more episode items as needed -->
-    
-  </channel>
+</channel>
 </rss>
